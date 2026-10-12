@@ -1,3 +1,5 @@
 1st_pro/
-__pycache_/
-db.sqlite3/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+db.sqlite3
